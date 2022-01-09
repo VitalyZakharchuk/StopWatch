@@ -1,0 +1,13 @@
+
+
+
+.stopwatch span{
+  background-color: blue;
+  color: #fff;
+  display: inline-block;
+  font-size: 100px;
+  padding: 100px;
+  border-radius: 50px;
+  
+}
+
